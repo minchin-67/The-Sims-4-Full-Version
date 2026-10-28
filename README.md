@@ -250,4 +250,4 @@ This repository serves as the official landing page for The Sims 4. The software
 **Get the most recent version of The Sims 4 today!**
 
 ---
-**Last updated:** 2026-10-28 18:11:15 UTC
+**Last updated:** 2026-10-28 23:02:30 UTC
